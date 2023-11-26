@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuestionsParametersXMLFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DocumentVersion>B005.0.0</DocumentVersion>
+  <PlatformSpecificConfigurations>
+    <Device Name="VR">
+      <DelayPostSubmit>0.5</DelayPostSubmit>
+      <Slider Scale ="0.005" /> 
+	  <!-- BreakMovementTimeOut="0.8" -->
+      <SubmitButton Show="false" Scale="1"/>
+        <Picture Scale="0.9" XMin="0.3" XMax="0.7" YMin="0.3" YMax="0.7" />
+    </Device>
+  <Device Name = "Windows">
+      <DelayPostSubmit>0.5</DelayPostSubmit>
+      <Picture Scale="1.55" XMin="0" XMax="1" YMin="0" YMax="1" />
+      <Slider Scale ="0.35" /> 
+	  <!-- BreakMovementTimeOut="0.8" -->
+      <SubmitButton Show="false" Scale="0.8" />
+  </Device>
+</PlatformSpecificConfigurations>
+<SkyBoxColor R="100" G="100" B="100"></SkyBoxColor>
+<PicturesFolderPath>input/Pictures</PicturesFolderPath>
+<QuestionsCSVFilePath>input/Questions.csv</QuestionsCSVFilePath>
+</QuestionsParametersXMLFile> 

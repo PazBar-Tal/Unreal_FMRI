@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecorderParametersXMLFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DocumentVersion>B00.1.0</DocumentVersion>
+    <PrintScreens  EnableCaptureScreen="false"  DelayAfterTrialStarts="1.0" ></PrintScreens>
+    <!-- old configuration before V6.21-->
+    <!-- CaptureVideo  EnableCameraRotation="false" EnableCaptureVideo="true" OfflineRendering="false"  RotateDegreesPerSecond="00.0" SizeX="480" SizeY="270" ></CaptureVideo-->
+    <!-- new  configuration After V6.21 Quality from 0.01 to 1.0 -->
+    <CaptureVideo  EnableCaptureVideo="false" Quality="0.2" ></CaptureVideo>
+</RecorderParametersXMLFile>

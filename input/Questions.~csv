@@ -1,0 +1,32 @@
+#QuestionID,LowValue,HighValue,InitialValue,TimeToRespond,MovementFactor,PictureFile,SoundFile,AnySelectionIsSubmit,HideSubmitButton,HideSlider,AcceptEnterOnly,ForceSelectionBeforEnter,nextQuestioninSameTrial,SliderDirection
+1,0,100,100,8,1,RagilMuzar.png,,FALSE,FALSE,FALSE,FALSE,FALSE,-1,LeftToRight
+1000,0,1,1,0.001,1,SourceMonitoring.png,,TRUE,TRUE,TRUE,FALSE,FALSE,-1,LeftToRight
+11111,0,2,0,0,1,Dirug210.png,,FALSE,FALSE,FALSE,FALSE,FALSE,11112,RightToLeft
+1111101,0,2,0,0,1,Dirug012.png,,FALSE,FALSE,FALSE,FALSE,FALSE,1111201,LeftToRight
+11112,1,5,1,0,1,AlterationRTL.png,,FALSE,FALSE,FALSE,FALSE,FALSE,-1,RightToLeft
+1111201,1,5,1,0,1,AlterationLTR.png,,FALSE,FALSE,FALSE,FALSE,FALSE,-1,LeftToRight
+12,0,0,0,0,1,break_2.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,2222,LeftToRight
+13,0,0,0,0,1,break_2.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,3333,LeftToRight
+2,0,1,0,0,1,Finished_Section.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,-1,LeftToRight
+2222,0,1,0,0,1,Where will the butterfly appear + Red Cue.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,4444,LeftToRight
+333,0,1,0,5,1,Ascending_Staircase.png,,TRUE,TRUE,TRUE,FALSE,TRUE,-1,LeftToRight
+3333,0,1,0,0,1,Where will the butterfly appear + Blue Cue.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,4444,LeftToRight
+4444,0,0,0,1.5,1,Fixation point.jpg,,FALSE,FALSE,TRUE,FALSE,TRUE,-1,LeftToRight
+50,0,1,0,5,1,new_condition.png,,FALSE,TRUE,TRUE,FALSE,TRUE,-1,LeftToRight
+552,0,1,1,2.5,1,Instructions_4.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,2222,LeftToRight
+553,0,1,1,2.5,1,Instructions_4.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,3333,LeftToRight
+662,0,1,1,0,1,Instructions_3.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,552,LeftToRight
+663,0,1,1,0,1,Instructions_3.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,553,LeftToRight
+666,0,1,1,0,1,continue.png,,TRUE,FALSE,FALSE,FALSE,TRUE,-1,LeftToRight
+772,0,1,1,3,1,Instructions_2.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,662,LeftToRight
+773,0,1,1,3,1,Instructions_2.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,663,LeftToRight
+777,0,1,0,3,1,baseline.png,,TRUE,TRUE,TRUE,FALSE,TRUE,-1,LeftToRight
+80,0,1,0,5,1,Pass80.png,,TRUE,TRUE,TRUE,FALSE,TRUE,-1,LeftToRight
+88,0,1,0.5,10,1,IdentQuestion_TransHD.png,,FALSE,FALSE,FALSE,FALSE,TRUE,-1,LeftToRight
+882,0,1,1,3,1,Instructions_1.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,772,LeftToRight
+883,0,1,1,3,1,Instructions_1.jpg,,TRUE,FALSE,TRUE,FALSE,TRUE,773,LeftToRight
+89,0,1,0.5,0,1,ident-beg.jpg,,TRUE,FALSE,FALSE,FALSE,TRUE,-1,LeftToRight
+9992,0,1,1,0,1,continue.png,,TRUE,FALSE,FALSE,FALSE,TRUE,-1,LeftToRight
+9993,0,1,1,0,1,continue.png,,TRUE,FALSE,FALSE,FALSE,TRUE,883,LeftToRight
+9999,0,1,1,0,1,continue.png,,TRUE,FALSE,FALSE,FALSE,TRUE,-1,LeftToRight
+99999,0,1,0,0,1,Finish.jpg,,TRUE,FALSE,FALSE,FALSE,TRUE,-1,LeftToRight

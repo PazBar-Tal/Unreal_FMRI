@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportXMLFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Options>
+    	<Note Text="Experimenters' Name + equipment "> </Note>
+		<Note Text="Participant looks tired"> </Note>
+		<Note Text="The participant did not recognize the condition - JND"> </Note>
+		<Note Text="Staircase ended suddenly"> </Note>
+		<Note Text="Trial has been skipped"> </Note>
+		<Note Text="The participant did not understand the question"> </Note>
+		<Note Text="The cables were wrapped around the participant"> </Note>
+		<Note Text="Participant crashed into something"> </Note>
+		<Note Text="Glitch occured in the Unreal environment"> </Note>
+		<Note Text="Controller glitch"> </Note>
+		<Note Text="Controller malfunction"> </Note>		
+		<Note Text="Controller replacement"> </Note>
+		<Note Text="Recalibrated eye tracking"> </Note>
+		<Note Text="ECG malfunction"> </Note>
+		<Note Text="ECG readjusted"> </Note>
+		<Note Text="Audio noise interference"> </Note>
+		<Note Text="Participant wants break"> </Note>
+		<Note Text="Computer shutdown"> </Note>		
+		<Note Text="The participant asked to stop the experiment"> </Note>
+		<Note Text="Overall, not a suitable subject"> </Note>
+		<Note Text="Other"> </Note>
+    </Options>
+</ReportXMLFile>

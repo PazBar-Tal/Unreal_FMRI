@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DevicesParametersXMLFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DocumentVersion>B005.0.0</DocumentVersion>
+    <VRController  UseTouchPad="false"  UseTouchPadClicks="true" Countinous="true"/>
+    <!--Notes -->
+    <!-- Countinuus="false" - every click moves only one step-->
+    <!-- Countinuus="true" - holding click moves repeatedly-->
+    <KeyBoard RightArrowKey="Keypad1" LeftArrowKey="Keypad7" UpArrowKey="UpArrow"  DownArrowKey="DownArrow" EnterKey="Keypad4" ></KeyBoard> 
+    <!--Notes-->
+    <!-- See bottom page https://docs.unity3d.com/Manual/ConventionalGameInput.html -->
+    <!-- I.E. -->
+    <!--KeyBoard RightArrowKey="[6]" LeftArrowKey="[4]" EnterKey="[5]" ></KeyBoard-->    
+</DevicesParametersXMLFile>

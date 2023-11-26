@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoundParametersXMLFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <PinkNoise  EnablePinkNoise="true"  AudioFileName="pink.wav" DisableOnCalibration="true"  Volume="0.1"></PinkNoise>
+</SoundParametersXMLFile>
