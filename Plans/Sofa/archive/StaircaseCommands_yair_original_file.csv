@@ -1,0 +1,12 @@
+#stairCaseSerialID,parameterNumberToChange,initialValue,Operator to use for positive,Value to use for positive,Operator To Use for Negative,Value to Use for Negative,num of iteration for positive,num of iterations for negative,number of iterations for finish,valueToCompare,comparationOperan,numberofphases,Phase to Manipulate,Operator for conversion,Value for  converstion,flipBreakLimit,Use Border,top Border,bottom Border,Use Probability,positive Prob,Negative Prob,use inhibition,pos inhibition number,neg inhibition,FlipInhbitionNumber
+1,11,1,*,1,*,1,1,1,1,0.5,>,2,1,+,0,5,FALSE,0,0,FALSE,100,100,TRUE,1,1,4
+1220201,12,0.3,/,0.85,*,0.85,1,1,1,0.5,>,2,2,+,1,5,FALSE,0.36992,0.05,FALSE,100,100,TRUE,1,1,4
+122027,12,0.5,/,0.85,*,0.85,1,1,1,0.5,>,2,2,+,1,5,FALSE,0.68,0.05,FALSE,100,100,TRUE,1,1,4
+122029,12,0.75,/,0.85,*,0.85,1,1,1,0.5,>,2,2,+,1,5,FALSE,0.8,0.05,FALSE,100,100,TRUE,1,1,4
+3020201,30,25,/,0.65,*,0.65,1,1,1,0.5,>,2,2,+,0,5,FALSE,21.97,0,FALSE,100,100,TRUE,1,1,4
+302027,30,40,/,0.65,*,0.65,1,1,1,0.5,>,2,2,+,0,5,FALSE,52,0,FALSE,100,100,TRUE,1,1,4
+302029,30,75,/,0.65,*,0.65,1,1,1,0.5,>,2,2,+,0,5,FALSE,80,0,FALSE,100,100,TRUE,1,1,4
+6020201,6,0.1,/,0.7,*,0.7,1,1,1,0.5,>,2,2,+,0,5,FALSE,0.052942,0,FALSE,100,100,TRUE,1,1,4
+602027,6,0.2,/,0.7,*,0.7,1,1,1,0.5,>,2,2,+,0,5,FALSE,0.052942,0,FALSE,100,100,TRUE,1,1,4
+602029,6,0.3,/,0.7,*,0.7,1,1,1,0.5,>,2,2,+,0,5,FALSE,0.052942,0,FALSE,100,100,TRUE,1,1,4
+66605,6,-0.02,/,0.7,*,0.7,1,1,1,0.5,>,2,2,+,0,5,FALSE,0.052942,0,FALSE,100,100,FALSE,1,1,1

@@ -1,0 +1,23 @@
+#stairCaseSerialID,parameterNumberToChange,initialValue,Operator to use for positive,Value to use for positive,Operator To Use for Negative,Value to Use for Negative,num of iteration for positive,num of iterations for negative,number of iterations for finish,valueToCompare,comparationOperan,numberofphases,Phase to Manipulate,Operator for conversion,Value for  converstion,flipBreakLimit,Use Border,top Border,bottom Border,Use Probability,positive Prob,Negative Prob,use inhibition,pos inhibition number,neg inhibition,FlipInhbitionNumber
+1,11,1,*,1,*,1,1,1,1,0.5,>,2,1,+,0,5,FALSE,0,0,FALSE,100,100,TRUE,1,1,4
+1210202,12,-0.56,/,0.8,*,0.8,20,20,25,0.5,>,2,2,+,1,5,FALSE,-0.001,-3,FALSE,100,100,TRUE,1,1,4
+121027,12,-0.6,/,0.8,*,0.8,1,1,1,0.5,>,2,2,+,1,5,FALSE,0,-3,FALSE,100,100,TRUE,1,1,4
+121029,12,-0.64,/,0.8,*,0.8,2,2,2,0.5,>,2,2,+,1,5,FALSE,0,-3,FALSE,100,100,TRUE,1,1,4
+1220202,12,0.4,/,0.8,*,0.8,20,20,25,0.5,>,2,2,+,1,5,FALSE,0.36992,0.05,FALSE,100,100,TRUE,1,1,4
+122027,12,0.6,/,0.8,*,0.8,1,1,1,0.5,>,2,2,+,1,5,FALSE,0.68,0.05,FALSE,100,100,TRUE,1,1,4
+122029,12,0.7,/,0.8,*,0.8,2,2,2,0.5,>,2,2,+,1,5,FALSE,0.8,0.05,FALSE,100,100,TRUE,1,1,4
+3010202,30,-25.97,/,0.8,*,0.8,20,20,25,0.5,>,2,2,+,0,5,FALSE,0,-14.2805,FALSE,100,100,TRUE,1,1,4
+301027,30,-33.87,/,0.8,*,0.8,1,1,1,0.5,>,2,2,+,0,5,FALSE,0,-52,FALSE,100,100,TRUE,1,1,4
+301029,30,-52.8,/,0.8,*,0.8,2,2,2,0.5,>,2,2,+,0,5,FALSE,0,-80,FALSE,100,100,TRUE,1,1,4
+3020202,30,25.97,/,0.8,*,0.8,20,20,25,0.5,>,2,2,+,0,5,FALSE,21.97,0,FALSE,100,100,TRUE,1,1,4
+302027,30,33.87,/,0.8,*,0.8,1,1,1,0.5,>,2,2,+,0,5,FALSE,52,0,FALSE,100,100,TRUE,1,1,4
+302029,30,52.8,/,0.8,*,0.8,2,2,2,0.5,>,2,2,+,0,5,FALSE,80,0,FALSE,100,100,TRUE,1,1,4
+6010202,6,-0.15,/,0.7,*,0.7,20,20,25,0.5,>,2,2,+,0,5,FALSE,0,-0.15435,FALSE,100,100,TRUE,1,1,4
+601027,6,-0.2,/,0.7,*,0.7,1,1,1,0.5,>,2,2,+,0,5,FALSE,0,-0.315,FALSE,100,100,TRUE,1,1,4
+601029,6,-0.3,/,0.7,*,0.7,2,2,2,0.5,>,2,2,+,0,5,FALSE,0,-0.45,FALSE,100,100,TRUE,1,1,4
+6020202,6,0.15,/,0.7,*,0.7,20,20,25,0.5,>,2,2,+,0,5,FALSE,0.052942,0,FALSE,100,100,TRUE,1,1,4
+602027,6,0.2,/,0.7,*,0.7,1,1,1,0.5,>,2,2,+,0,5,FALSE,0.315,0,FALSE,100,100,TRUE,1,1,4
+602029,6,0.3,/,0.7,*,0.7,2,2,2,0.5,>,2,2,+,0,5,FALSE,0.45,0,FALSE,100,100,TRUE,1,1,4
+3802,38,0.25,/,0.7,*,0.7,20,20,20,0.5,>,2,2,+,0,5,FALSE,1,0,FALSE,100,100,TRUE,1,1,4
+38027,38,0.35,/,0.7,*,0.7,1,1,1,0.5,>,2,2,+,0,5,FALSE,1,0,FALSE,100,100,TRUE,1,1,4
+38029,38,0.45,/,0.7,*,0.7,2,2,2,0.5,>,2,2,+,0,5,FALSE,1,0,FALSE,100,100,TRUE,1,1,4
